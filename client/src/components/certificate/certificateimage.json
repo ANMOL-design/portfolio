@@ -1,0 +1,66 @@
+[{
+        "id": 1,
+        "image": "./Certificates/FULLSTACK.png",
+        "title": "MERN Training Completion Certificate from Prepbytes"
+    },
+    {
+
+        "id": 2,
+        "image": "./Certificates/Microsoft.png",
+        "title": "Webinar and Test Certificate from Microsoft"
+    },
+    {
+
+        "id": 3,
+        "image": "./Certificates/Sparks.png",
+        "title": "Internship Completion Certificate from Sparks Foundation"
+    },
+    {
+
+        "id": 4,
+        "image": "./Certificates/Internshala.png",
+        "title": "Internship Completion Certificate from Team Everest"
+    },
+    {
+
+        "id": 5,
+        "image": "./Certificates/CourseraPython1.png",
+        "title": "Python Training Completion Certificate from Coursera"
+    },
+    {
+
+        "id": 6,
+        "image": "./Certificates/CourseraPython2.png",
+        "title": "Python Training Completion Certificate from Coursera"
+    },
+    {
+
+        "id": 7,
+        "image": "./Certificates/CourseraPython3.png",
+        "title": "Python Training Completion Certificate from Coursera"
+    },
+    {
+
+        "id": 8,
+        "image": "./Certificates/CourseraPython4.png",
+        "title": "Python Training Completion Certificate from Coursera"
+    },
+    {
+
+        "id": 9,
+        "image": "./Certificates/Udemy.jpg",
+        "title": "Python Completion Certificate from Udemy"
+    },
+    {
+
+        "id": 10,
+        "image": "./Certificates/Courseracomp.png",
+        "title": "Course Completion Certificate from Coursera"
+    },
+    {
+
+        "id": 11,
+        "image": "./Certificates/HackerRank.png",
+        "title": "Test Completion Certificate from HackerRank"
+    }
+]
